@@ -1,0 +1,7 @@
+{
+    "name": "piewoo/getit",
+    "description": "site gite",
+    "require": {
+        "phpmailer/phpmailer": "^6.6"
+    }
+}

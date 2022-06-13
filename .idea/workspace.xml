@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7222f1a2-3a7b-4252-a364-87cbc85398d5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/phpmailer/phpmailer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="28Ss3nah3lQ09xu0knxbDSWjrO0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../portfo" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wam64\www\giteproj\assets\img" />
+      <recent name="C:\wam64\www\giteproj\assets\docu" />
+      <recent name="C:\wam64\www\giteproj\test" />
+      <recent name="C:\wam64\www\giteproj\vues" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7222f1a2-3a7b-4252-a364-87cbc85398d5" name="Default Changelist" comment="" />
+      <created>1651221124379</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651221124379</updated>
+      <workItem from="1651221125636" duration="1752000" />
+      <workItem from="1651222978733" duration="4670000" />
+      <workItem from="1651243611644" duration="131052000" />
+      <workItem from="1652687884494" duration="30347000" />
+      <workItem from="1652952048732" duration="20639000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2106" y="295" key="FileChooserDialogImpl" timestamp="1653290790407">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2106" y="295" key="FileChooserDialogImpl/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1653290790407" />
+    <state x="2150" y="263" key="NewPhpClassDialog" timestamp="1652693143299">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2150" y="263" key="NewPhpClassDialog/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1652693143299" />
+    <state x="1827" y="185" key="SettingsEditor" timestamp="1652360311140">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1827" y="185" key="SettingsEditor/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1652360311140" />
+  </component>
+</project>
